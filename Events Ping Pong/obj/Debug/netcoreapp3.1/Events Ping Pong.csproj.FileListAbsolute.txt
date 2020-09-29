@@ -1,0 +1,13 @@
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.exe
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.deps.json
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.runtimeconfig.json
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.runtimeconfig.dev.json
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.dll
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\bin\Debug\netcoreapp3.1\Events Ping Pong.pdb
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.csprojAssemblyReference.cache
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.AssemblyInfoInputs.cache
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.AssemblyInfo.cs
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.csproj.CoreCompileInputs.cache
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.dll
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.pdb
+C:\Users\Аташ\source\repos\Events\Events Ping Pong\obj\Debug\netcoreapp3.1\Events Ping Pong.genruntimeconfig.cache
